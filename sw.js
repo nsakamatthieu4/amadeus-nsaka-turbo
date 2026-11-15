@@ -1,0 +1,1 @@
+const CACHE='amadeus-nsaka-v2';self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(['./','./index.html','./manifest.webmanifest',...Array.from({length:8},(_,i)=>`./assets/hero_${i}.png`)]))));self.addEventListener('fetch',e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))));
