@@ -1,26 +1,25 @@
 
 {
   "id": "./",
-  "name": "AMADEUS NSAKA - Turbo Adventure",
+  "name": "AMADEUS NSAKA TURBO V2",
   "short_name": "AMADEUS NSAKA",
-  "description": "Un jeu d'aventure 2D mettant en scène Nsaka wa Nsaka. Explore cinq mondes, collecte des anneaux et affronte le boss final.",
+  "description": "Jeu d'aventure 2D mettant en scène Amadeus Nsaka. Explore cinq mondes, collecte des anneaux et affronte les boss.",
   "start_url": "./",
   "scope": "./",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "landscape",
   "background_color": "#06142f",
   "theme_color": "#06142f",
-
-"icons": [
-  {
-    "src": "./icone-192.png",
-"sizes": "192x192",
-"type": "image/png"
-  },
-  {
-    "src": "./icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+  "icons": [
+    {
+      "src": "./icône-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icône-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
