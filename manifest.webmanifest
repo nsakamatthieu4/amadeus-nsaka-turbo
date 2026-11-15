@@ -3,7 +3,7 @@
   "id": "./",
   "name": "AMADEUS NSAKA - Turbo Adventure",
   "short_name": "AMADEUS NSAKA",
-  "description": "Jeu d'aventure et de plateforme 2D mettant en scène Nsaka wa Nsaka. Explore cinq mondes, collecte des anneaux et bats le boss final.",
+  "description": "Un jeu d'aventure 2D mettant en scène Nsaka wa Nsaka. Explore cinq mondes, collecte des anneaux et affronte le boss final.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
